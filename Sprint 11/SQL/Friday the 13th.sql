@@ -1,0 +1,1 @@
+SELECT EventName,EventDate, DATENAME(weekday, EventDate) AS 'Day of Week', DATEPART(day, EventDate) AS 'Day Number' FROM tblEvent
