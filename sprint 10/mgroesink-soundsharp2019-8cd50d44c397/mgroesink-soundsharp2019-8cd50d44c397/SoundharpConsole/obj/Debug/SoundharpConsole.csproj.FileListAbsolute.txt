@@ -1,0 +1,10 @@
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\SoundharpConsole\bin\Debug\SoundharpConsole.exe.config
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\SoundharpConsole\bin\Debug\SoundharpConsole.exe
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\SoundharpConsole\bin\Debug\SoundharpConsole.pdb
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\SoundharpConsole\bin\Debug\AudioDevices.dll
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\SoundharpConsole\bin\Debug\AudioDevices.pdb
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\SoundharpConsole\obj\Debug\SoundharpConsole.csprojAssemblyReference.cache
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\SoundharpConsole\obj\Debug\SoundharpConsole.csproj.CoreCompileInputs.cache
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\SoundharpConsole\obj\Debug\SoundharpConsole.csproj.CopyComplete
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\SoundharpConsole\obj\Debug\SoundharpConsole.exe
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\SoundharpConsole\obj\Debug\SoundharpConsole.pdb

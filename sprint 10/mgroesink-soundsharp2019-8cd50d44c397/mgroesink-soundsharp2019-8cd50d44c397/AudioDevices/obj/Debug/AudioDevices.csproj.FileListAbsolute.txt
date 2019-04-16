@@ -1,0 +1,12 @@
+C:\Users\bjorn\Desktop\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\AudioDevices\bin\Debug\AudioDevices.dll
+C:\Users\bjorn\Desktop\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\AudioDevices\bin\Debug\AudioDevices.pdb
+C:\Users\bjorn\Desktop\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\AudioDevices\obj\Debug\AudioDevices.csprojAssemblyReference.cache
+C:\Users\bjorn\Desktop\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\AudioDevices\obj\Debug\AudioDevices.csproj.CoreCompileInputs.cache
+C:\Users\bjorn\Desktop\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\AudioDevices\obj\Debug\AudioDevices.dll
+C:\Users\bjorn\Desktop\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\AudioDevices\obj\Debug\AudioDevices.pdb
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\AudioDevices\bin\Debug\AudioDevices.dll
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\AudioDevices\bin\Debug\AudioDevices.pdb
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\AudioDevices\obj\Debug\AudioDevices.csprojAssemblyReference.cache
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\AudioDevices\obj\Debug\AudioDevices.csproj.CoreCompileInputs.cache
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\AudioDevices\obj\Debug\AudioDevices.dll
+D:\##bestanden\##School\AO\Sprint\sprint 10\mgroesink-soundsharp2019-8cd50d44c397\mgroesink-soundsharp2019-8cd50d44c397\AudioDevices\obj\Debug\AudioDevices.pdb
